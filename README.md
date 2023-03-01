@@ -9,7 +9,7 @@
 
 ## Getting Started with Docker
 
-- run `docker pull sramalho94/allstate-carpets:0.0.5.DEVELOPMENT` using Docker CLI
+- run `docker pull sramalho94/allstate-carpets:0.0.7.PRODUCTION` using Docker CLI
 - start the image
 
 ## Technologies used
