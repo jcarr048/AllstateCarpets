@@ -27,4 +27,4 @@
 
 ## Deployment
 
-Deployed through AWS - [!]https://main.dxtojud1yx38w.amplifyapp.com
+Deployed through AWS - [Allstate Carpets](https://main.dxtojud1yx38w.amplifyapp.com)
