@@ -24,3 +24,7 @@
 - [ ] Contact Form
 - [ ] Reconfiguring testimonials in mobile view
 - [ ] Build backend API
+
+## Deployment
+
+Deployed through AWS - [Allstate Carpets](https://main.dxtojud1yx38w.amplifyapp.com)
